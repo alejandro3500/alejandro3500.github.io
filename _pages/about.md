@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Short introduction
+Welcome to my personal page! Here you will find an overview of my main projects and publications. I hold a degree in Computer Science from the University of Las Villas, Cuba, and have more than eight years of research experience in Artificial Intelligence. Both my Bachelor’s and Master’s research were centered on developing and applying diversity measures to design ensembles of classifiers, aiming to improve predictive performance in bioinformatics problems such as protein classification. In 2019, I moved to Belgium to begin my PhD studies at UHasselt, focusing on smart optimization for complex, uncertain, and computationally expensive problems, as well as challenges in time series analysis. Additionally, I have experience in project management and software development, working both with the scientific community and within business environments.  
+
+I am currently a Postdoctoral Researcher in the Machine Learning Group at the Université Libre de Bruxelles (ULB), where I work on projects related to mobility and energy. In parallel, I serve as a Research Collaborator at UHasselt, focusing on the intersection of optimization and Machine Learning algorithms.
 
 Research interests
 ======
 
-Something here
+Uncertainty in AI, Optimization, Machine Learning, Bioinformatics, Metaheuristics, Time series, AutoML, XAI, Applied research
 
 Beyond academia
 ======

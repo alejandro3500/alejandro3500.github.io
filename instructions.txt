@@ -1,0 +1,14 @@
+See https://jayrobwilliams.com/posts/2020/06/academic-website/
+
+Open a cmd to run code with Ruby
+
+Move to project Path
+
+To install a Gem
+  gem install _____
+
+Update the bundle
+  bundle update
+
+To run locally:
+  bundle exec jekyll serve
