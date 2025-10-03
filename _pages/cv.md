@@ -30,7 +30,7 @@ Work experience
   * Hasselt University, Belgium
 
 * October 2017 - November 2019: Teaching assistant
-  * Central University of Las Villa, Cuba
+  * Central University of Las Villas, Cuba
 
 * September 2014 - September 2017: Senior Specialist in ICT
   * Company of Information Technologies for Defense, Cuba
