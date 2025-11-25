@@ -14,7 +14,7 @@ I am currently a Postdoctoral Researcher in the Machine Learning Group at the Un
 Research interests
 ======
 
-Uncertainty in AI, Optimization, Machine Learning, Bioinformatics, Metaheuristics, Time series, AutoML, XAI, Knowledge representation, Applied research
+Uncertainty in AI, Optimization, Machine Learning, Bioinformatics, Metaheuristics, Time series, AutoML, XAI, Knowledge representation, Digital Twins, Applied research
 
 Beyond academia
 ======
