@@ -1,6 +1,6 @@
 ---
 title: "TORRES project"
-excerpt: "Traffic prOcessing foR uRban EnvironmentS<br/><img src='/images/torres_visual.png' style='width: 50%; height: auto;'>"
+excerpt: "Traffic prOcessing foR uRban EnvironmentS<br/>2023-2025<br/><img src='/images/torres_visual.png' style='width: 25%; height: auto;'>"
 collection: portfolio
 ---
 
