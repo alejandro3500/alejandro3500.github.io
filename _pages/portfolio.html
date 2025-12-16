@@ -15,6 +15,6 @@ author_profile: true
       <h1 class="page__title">Software development</h1>
 </div>
 
-{% for post in site.software %}
+{% for post in site.software reversed %}
   {% include archive-single.html %}
 {% endfor %}
