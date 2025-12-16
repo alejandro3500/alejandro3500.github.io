@@ -1,6 +1,6 @@
 ---
 title: "Analysis of ramp events in power systems"
-excerpt: "Forecasting wind power ramp events using imbalanced time series<br/>2024-... <br/><img src='/images/time-series.png' style='width: 25%; height: auto;'>"
+excerpt: "Forecasting wind power ramp events using imbalanced time series (2024-...) <br/><img src='/images/time-series.png' style='width: 25%; height: auto;'>"
 collection: portfolio
 ---
 
