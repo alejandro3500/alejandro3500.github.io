@@ -8,6 +8,8 @@ This work focuses on the design and implementation of an intelligent software sy
 
 The project started with a structured analysis of the theoretical foundations required to determine inheritance patterns, including dominance relationships across generations and the mechanisms by which genetic traits are transmitted to offspring. This theoretical grounding informs the formalization of domain knowledge into a logic-based representation that supports efficient automated reasoning. Based on an extensive review of the relevant literature, a knowledge representation strategy is defined that balances expressiveness, computational efficiency, and interpretability, enabling the system to derive accurate conclusions while remaining transparent and easy to maintain.
 
+Collaborators: Alexys Gallardo
+
 <figure style="float: left; margin: 0 10px 10px 10px; width: 500px;">
   <img src="../../images/Genetic_familyTree.png" alt="FamilyTree" style="width: 100%;">
   <figcaption style="font-size: 0.9em; text-align: center;">
