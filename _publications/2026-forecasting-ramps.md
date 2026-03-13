@@ -1,0 +1,14 @@
+---
+title: "A direct classification approach for reliable wind ramp event forecasting under severe class imbalance"
+collection: publications
+category: manuscripts
+permalink: /publication/2026-forecasting-ramps
+excerpt: 'The paper proposes a multivariate time series classification method with imbalance-aware preprocessing and ensemble learning to improve Wind Power Ramp Event forecasting, achieving over 85% accuracy and 88% weighted F1 score on real-world wind power data.'
+date: 2026-03-13
+venue: 'Electric Power Systems Research'
+paperurl: 'https://doi.org/10.1016/j.epsr.2026.112951'
+bibtexurl: '../files/forecasting_ramps.bib'
+citation: 'Morales-Hernández, A., De Carlo, F., Paldino, G. M., Trivel, P., Vaccaro, A., Bontempi, G. (2026). &quot;A direct classification approach for reliable wind ramp event forecasting under severe class imbalance.&quot; <i>Electric Power Systems Research</i>.'
+---
+
+Decision support systems are essential for maintaining grid stability in low-carbon power systems, such as wind power plants, by providing real-time alerts to control room operators regarding potential events, including Wind Power Ramp Events (WPREs). These early warnings enable the timely initiation of more detailed system stability assessments and preventive actions. However, forecasting these events is challenging due to the inherent class imbalance in WPRE datasets, where ramp events are less frequent (typically less than 15% of observed events) compared to normal conditions. Ignoring this characteristic undermines the performance of conventional machine learning models, which often favor the majority class. This paper introduces a novel methodology for WPRE forecasting as a multivariate time series classification task and proposes a data preprocessing strategy that extracts features from recent power observations and masks unavailable ramp information, making it integrable with traditional real-time ramp identification tools. Particularly, the proposed methodology combines majority-class undersampling and ensemble learning to enhance wind ramp event forecasting under class imbalance. Numerical simulations conducted on a real-world dataset demonstrate the superiority of our approach, achieving over 85% accuracy and 88% weighted F1 score, outperforming benchmark classifiers.
