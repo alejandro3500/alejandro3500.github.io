@@ -22,4 +22,4 @@ Contents covered:
 * Practical Business Considerations (data quality, bias, fairness, change management)
 * ROI of ML projects (benefits vs. costs breakdown)
 
-<img src="images/uhasselt_guest_lecture.jpg" alt="Guest lecture at UHasselt" style="float: center; margin: 0 0 10px 10px; width: 300px;">
+<img src="images/uhasselt_guest_lecture.jpg" alt="Guest lecture at UHasselt" style="float: left; margin: 0 0 10px 10px; width: 300px;">
