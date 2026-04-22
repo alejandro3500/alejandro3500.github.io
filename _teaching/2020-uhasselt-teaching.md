@@ -2,8 +2,8 @@
 title: "Introduction to Information Systems"
 collection: teaching
 type: "Master course - Master of Management"
-permalink: /teaching/2020-1-uhasselt-teaching
-venue: "Hasselt University, Faculty of Business Informatics"
+permalink: /teaching/2020-uhasselt-teaching
+venue: "Hasselt University, Faculty of Business Economics"
 date: 2020-01-01
 location: "Hasselt, Belgium"
 ---
