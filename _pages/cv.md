@@ -54,6 +54,24 @@ Skills
   * Communication & presentation
   * Problem-solving
 
+  Advanced discipline-specific knowledge studies
+  ======
+  | Date | Course / Event |
+|---|---|
+| 8/2024 | TRAIL Summer workshop, Lisbon, Portugal |
+| 10/2022 | AutoML Fall School, Freiburg University, Germany |
+| 05/2022 | Comparing Genes, Proteins, and Genomes (Bioinformatics III), Coursera, Online |
+| 05/2022 | Genome Sequencing (Bioinformatics II), Coursera, Online |
+| 04/2022 | Finding Hidden Messages in DNA (Bioinformatics I), Coursera, Online |
+| 03/2022 - 04/2022 | Deep Learning specialization, Coursera, Online |
+| 10/2021 - 11/2021 | Machine Learning, Coursera, Online |
+| 08/2021 | Stochastic optimization, University of Jyvaskyla, Finland |
+| 08/2021 | Multicriteria Design Optimization, University of Jyvaskyla, Finland |
+| 02/2021 - 06/2021 | Artificial Neural Networks and Deep Learning, KU Leuven, Belgium |
+| 09/2020 - 01/2021 | Simulation: Theory and Applications, KU Leuven, Belgium |
+| 02/2020 - 06/2020 | Optimization: Special topics, KU Leuven, Belgium |
+| 09/2020 | (1) Essential tools in R, (2) Time series analysis, (3) Introduction to Machine Learning, FLAMES Summer School, Online |
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
