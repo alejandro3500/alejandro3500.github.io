@@ -54,9 +54,10 @@ Skills
   * Communication & presentation
   * Problem-solving
 
-  Advanced discipline-specific knowledge studies
-  ======
-  | Date | Course / Event |
+Advanced discipline-specific knowledge studies
+======
+
+| Date | Course / Event |
 |---|---|
 | 8/2024 | TRAIL Summer workshop, Lisbon, Portugal |
 | 10/2022 | AutoML Fall School, Freiburg University, Germany |
