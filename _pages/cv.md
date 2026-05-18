@@ -59,6 +59,7 @@ Advanced discipline-specific knowledge studies
 
 | Date | Course / Event |
 |---|---|
+| 05/2026 | Genomic Data Science (currently enrolled), Coursera, Online  |
 | 8/2024 | TRAIL Summer workshop, Lisbon, Portugal |
 | 10/2022 | AutoML Fall School, Freiburg University, Germany |
 | 05/2022 | Comparing Genes, Proteins, and Genomes (Bioinformatics III), Coursera, Online |
