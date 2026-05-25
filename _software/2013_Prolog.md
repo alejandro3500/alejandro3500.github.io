@@ -1,7 +1,7 @@
 ---
 title: "Genpro - An Intelligent Software Framework for Genetic Inference Using Logic Programming (2013)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This work focuses on the design and implementation of an intelligent software system for genetic analysis, based on logical reasoning and symbolic inference. The system leverages the inference mechanisms of Prolog, a declarative logic programming language, to model, analyze, and reason about phenotypic disease expression within family pedigrees, with the objective of inferring the underlying patterns of genetic inheritance.

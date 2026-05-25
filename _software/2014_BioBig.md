@@ -1,7 +1,7 @@
 ---
 title: "Educational software for Biology students (2014)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This project presents the design and development of an educational software application aimed at strengthening independent learning and knowledge consolidation for undergraduate Biology students. The proposed solution is grounded in both pedagogical expertise and software engineering principles, combining domain knowledge of biology curricula with object oriented programming practices to structure and manage diverse types of learning content. The system provides exercise guides, structured question formats, and consultable bibliographic resources in PDF, modeled through a coherent class hierarchy that encapsulates data and behavior to ensure modularity, maintainability, and scalability. Implemented in Java, the software leverages platform independence through the Java Virtual Machine, ensuring portability across hardware environments, and employs Swing for graphical user interface development alongside standard libraries for data structures, file management, audio processing, and document handling. The work highlights the application of expert knowledge in educational design, object oriented analysis, and cross platform software architecture to deliver a robust and extensible learning support tool.

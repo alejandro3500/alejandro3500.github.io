@@ -1,7 +1,7 @@
 ---
 title: "Data structure project: Huffman trees (2011)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This project was conducted in an academic and instructional context to demonstrate the application (in Java) of binary trees for [Huffman codes](https://en.wikipedia.org/wiki/Huffman_coding).

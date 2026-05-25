@@ -1,5 +1,5 @@
 ---
-title: "TORRES project"
+title: "TORRES project (2023-2025)"
 excerpt: "Traffic prOcessing foR uRban EnvironmentS (2023-2025)<br/><img src='/images/torres_visual.png' style='width: 25%; height: auto;'>"
 collection: portfolio
 ---

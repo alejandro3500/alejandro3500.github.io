@@ -1,7 +1,7 @@
 ---
 title: "DANTES: Android Device Analysis System (2015-2017)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This project focused on the automatic extraction and analysis of user data and files contained in Android devices by use of a Python application. Additional technical and implementation details are omitted to preserve confidentiality.

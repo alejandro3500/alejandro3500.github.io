@@ -1,10 +1,10 @@
 ---
 title: "Data structure project: B-Tree implementation (2010)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
-his project was conducted in an academic and instructional context to demonstrate the implementation (in Java) of the [Data Structure B-Tree](https://en.wikipedia.org/wiki/B-tree). 
+This project was conducted in an academic and instructional context to demonstrate the implementation (in Java) of the [Data Structure B-Tree](https://en.wikipedia.org/wiki/B-tree).
 
 <figure style="float: left; margin: 0 0 10px 10px; width: 500px;">
   <img src="../../images/B-Tree.png" alt="B-Tree" style="width: 100%;">

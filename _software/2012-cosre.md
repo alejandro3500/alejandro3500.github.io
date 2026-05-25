@@ -1,7 +1,7 @@
 ---
 title: "Database management project: Student Residence Control (2012)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This report presents the development of a computerized application to manage students' data residing in a university student residence, addressing the limitations of previously manual data handling processes. The proposed solution is based on a relational database implemented in SQL Server 2000 and a visual interface that enables secure storage, retrieval, and updating of student information while preserving data integrity, confidentiality, and consistency. The system supports the management of relationships and roles within the residence structure, facilitates efficient cross referencing of data, and ensures reliable control over institutional information.

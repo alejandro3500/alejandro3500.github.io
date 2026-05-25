@@ -1,7 +1,7 @@
 ---
 title: "Contract Management System TRATOS v1.2.4 (2017-2018)"
 excerpt: ""
-collection: portfolio
+collection: software
 ---
 
 This project focused on the management of companies' contracts and their main outcome is the implementation of a desktop Java application. Additional technical and implementation details are omitted to preserve confidentiality.
