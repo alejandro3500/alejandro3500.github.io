@@ -59,7 +59,7 @@ Advanced discipline-specific knowledge studies
 
 | Date | Course / Event |
 |---|---|
-| 05/2026 | Genomic Data Science specialization (currently enrolled), Coursera, Online <br> [Course 1: Introduction to Genomic Technologies](https://www.coursera.org/verify/J7RTOS9Q5CDL) <br> [Course 2: Python for Genomic Data Science](https://www.coursera.org/verify/0HZ507AE56MX) |
+| 05/2026 | Genomic Data Science specialization (currently enrolled), Coursera, Online <br> [Course 1: Introduction to Genomic Technologies](https://www.coursera.org/verify/J7RTOS9Q5CDL) <br> [Course 2: Python for Genomic Data Science](https://www.coursera.org/verify/0HZ507AE56MX) <br> [Course 3: Algorithms for DNA Sequencing](https://coursera.org/verify/40DV4WV1LW86) |
 | 8/2024 | TRAIL Summer workshop, Lisbon, Portugal |
 | 10/2022 | AutoML Fall School, Freiburg University, Germany |
 | 05/2022 | Comparing Genes, Proteins, and Genomes ([Bioinformatics III](https://www.coursera.org/verify/XW47XBHZWS79)), Coursera, Online |
