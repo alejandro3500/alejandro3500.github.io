@@ -15,4 +15,4 @@ Decision variables encode proportional changes in eight school and workplace con
 Results indicate that the Pareto front includes strategies that improved the contact structure observed during the same pandemic period. Analysis of the associated contact-reduction schedules suggests that, during the high-stringency phase from mid-November 2020 to early January 2021, Pareto-optimal strategies tend to preserve relatively more school contacts while favoring stronger reductions in workplace contacts, particularly for high-proximity occupations. Although operational deployment requires further validation, the framework demonstrates how digital twins, AI-assisted optimization, and interpretable contact-scaling schedules can support responsible public health decision-making by suggesting potential trade-off strategies before implementation.
 
 
-[View Poster](..\files\Poster_dt4ph_2026.pdf.pdf)
+[View Poster](..\files\Poster_dt4ph_2026.pdf)
