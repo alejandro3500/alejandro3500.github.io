@@ -2,7 +2,7 @@
 title: "Strategic NPI Optimisation: Solving a MOOP to Mitigate Healthcare Burden and Educational Loss"
 collection: talks
 type: "Poster"
-permalink: /talks/2026-DT4PH_poster
+permalink: /talks/2026-DT4PH-poster
 venue: "Digital Twins and AI in Personalized Healthcare (DT4PH): from Innovation to Implementation and Impact"
 date: 2026-06-10
 location: "Leuven, Belgium"
