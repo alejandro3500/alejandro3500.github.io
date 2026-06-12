@@ -6,6 +6,7 @@ permalink: /talks/2018-Informatica
 venue: "INTERNATIONAL CONFERENCE ON INFORMATICS AND COMPUTER SCIENCE (CICCI 2018)"
 date: 2018-03-20
 location: "La Havana, Cuba"
+excerpt: " "
 ---
 
 Classification techniques are widely used to solve problems that require categorizing objects according to their characteristics. Numerous classification models have been reported in the literature, including neural networks, Bayesian algorithms, and decision trees. However, in certain domains, such as bioinformatics, it is often more intuitive and effective to combine the outputs of multiple classifiers.

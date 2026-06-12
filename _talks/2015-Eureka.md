@@ -6,6 +6,7 @@ permalink: /talks/2015-Eureka
 venue: "V International Workshop on Knowledge Discovery, Knowledge Management and Decision Making. Eureka Workshop"
 date: 2015-04-21
 location: "Ciudad de Mexico, Mexico"
+excerpt: " "
 ---
 
 
