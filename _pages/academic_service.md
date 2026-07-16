@@ -45,7 +45,7 @@ Conference Organization & support
 
 * Support staff for the 5th International Conference on Hybrid Human-Artificial Intelligence conference (HHAI2026) \[[Letter of attendance](/files/HHAI2026.pdf)\]
 
-* 1st Workshop "Artificial Intelligence for Digital Twins: Challenges and Best Practices (AI4DT 2026)". Venue: BNAIC/BeNeLearn 2026. ([Link](https://ai4dt-workshop.github.io/2026/))"
+* 1st Workshop "Artificial Intelligence for Digital Twins: Challenges and Best Practices (AI4DT 2026)". Venue: BNAIC/BeNeLearn 2026. ([Link](https://ai4dt-workshop.github.io/2026/))
 
 
 Research funding
@@ -116,7 +116,7 @@ Leadership & Committees
 Societal impact
 ======
 
-* Horizon Europe proposal writing - Belgium and UK collaboration \[ [Files](/files/Horizon_Belgium_UK.pdf)\]
+* Horizon Europe proposal writing - Belgium and UK collaboration \[[Files](/files/Horizon_Belgium_UK.pdf)\]
 
 * Delivered invited talks and presentations to non-academic groups, including public transport administrations of
 Belgium, the Netherlands, Luxembourg, and North Rhine-Westphalia. Topic:  AI research projects in mobility

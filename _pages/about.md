@@ -27,4 +27,4 @@ By day, I’m a researcher in Machine Learning. By night... well, still a resear
 
 :art: I recently discovered I can make fancy lines on paper, some people even call it drawing. Since then, I have become fascinated with cartography, especially creating fantasy maps in ink. Yes, I know, another D&D nerd, shocking!  
 
-:book: When I have time and I am not falling asleep in front of the TV, I like to read fantasy books before going to bed. 'The Wheel of Time' has been keeping me thoroughly captivated recently.
+:book: When I have time and I am not falling asleep in front of the TV, I like to read fantasy books before going to bed. 'The Way of Kings' has been keeping me busy lately.
