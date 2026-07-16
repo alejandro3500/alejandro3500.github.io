@@ -106,6 +106,8 @@ Leadership & Committees
 
 * Project leadership in the 5th TRAIL summer workshop in Lisbon
 
+* Organizer of the workshop "Artificial Intelligence for Digital Twins: Challenges and Best Practices ([AI4DT 2026](https://ai4dt-workshop.github.io/2026/))"
+
 
 
 <!-- Professional Memberships
@@ -114,6 +116,8 @@ Leadership & Committees
 
 Societal impact
 ======
+
+* Horizon Europe proposal writing - Belgium and UK collaboration \[ [Files](/files/Horizon_Belgium_UK.pdf)\]
 
 * Delivered invited talks and presentations to non-academic groups, including public transport administrations of
 Belgium, the Netherlands, Luxembourg, and North Rhine-Westphalia. Topic:  AI research projects in mobility
