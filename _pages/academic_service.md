@@ -9,22 +9,24 @@ author_profile: true
 
 Peer Review
 ======
-* Swarm and Evolutionary Computation
-* Machine Learning
-* International Journal of Electrical and Computer Engineering
+
+* Applied Soft Computing Journal
+* Chemometrics and Intelligent Laboratory Systems
+* Discover Artificial Intelligence
+* Engineering Applications of Artificial Intelligence
 * IEEE Access
-* International Journal of Sustainable Energy
-* Smart Grids and Sustainable Energy
-* International Journal of Computer Theory and Engineering
 * IEEE Open Journal of Intelligent Transportation Systems
 * IEEE Transactions on Industrial Informatics
-* Neural Networks
-* Applied Soft Computing Journal
 * IEEE Transactions on Network and Service Management
-* Engineering Applications of Artificial Intelligence
-* Neurocomputing
 * INFORMS Journal on Computing
-* Chemometrics and Intelligent Laboratory Systems
+* International Journal of Computer Theory and Engineering
+* International Journal of Electrical and Computer Engineering
+* International Journal of Sustainable Energy
+* Machine Learning
+* Neurocomputing
+* Neural Networks
+* Smart Grids and Sustainable Energy
+* Swarm and Evolutionary Computation
 
 <!-- Editorial Activities
 ======
