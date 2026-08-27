@@ -108,6 +108,8 @@ Leadership & Committees
 ======
 
 * Project leadership in the 5th TRAIL summer workshop in Lisbon
+* Member of the jury of the **FARI Brussels Local Impact Award** (FARI Brussels Conference 2026)
+* Member of the reviewer panel of the [Europe AI Summer Research (2026)](https://www.eurotech-federation.com/community/ai-research-summer)
 
 
 
