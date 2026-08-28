@@ -32,6 +32,9 @@ Work experience
 * October 2017 - November 2019: Teaching assistant
   * Central University of Las Villas, Cuba
 
+* November 2017 - October 2019: Development team lead
+    * Hermes, Cuba
+
 * September 2014 - September 2017: Senior Specialist in ICT
   * Company of Information Technologies for Defense, Cuba
 
