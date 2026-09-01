@@ -37,7 +37,7 @@ Supervision
 
 | Year | Thesis |
 |---|---|
-| 2025 | **Title:** Data-driven algorithm for the identification of ramp events <br> **Institution:** Université Libre de Bruxelles <br> **Role:** Co-Promotor <br> **Program:** Master in Computer Science |
+| 2025 | **Title:** Classification of Ramps Events under Class Imbalance <br> **Institution:** Université Libre de Bruxelles <br> **Role:** Co-Promotor <br> **Program:** Master in Computer Science |
 | 2018 | **Title:** Implementation of an algorithm for modeling surface water quality <br> **Link:** [Access thesis](https://dspace.uclv.edu.cu/items/c4fd6915-78ac-494d-8886-b50db271a56d) <br> **Institution:** Central University "Marta Abreu" of Las Villas <br> **Role:** Promotor <br> **Program:** Bachelor's degree in Informatics |
 | 2015 | **Title:** Combining diversity measures in ensemble of classifiers using Fuzzy Logic <br> **Link:** [Access thesis](https://dspace.uclv.edu.cu/items/f48c1f2f-4024-4460-ba56-79f37ec7b38c) <br> **Institution:** Central U niversity "Marta Abreu" of Las Villas <br> **Role:** Consultant <br> **Program:** Bachelor's degree in Computer Science |
 | 2015 | **Title:** Building ensemble of classifiers using Ant Colony Optimization <br> **Link:** [Access thesis](https://dspace.uclv.edu.cu/items/f40176f0-aa29-4abd-9ffa-0c81fab5be7c) <br> **Institution:** Central University "Marta Abreu" of Las Villas <br> **Role:** Consultant <br> **Program:** Bachelor's degree in Computer Science |
