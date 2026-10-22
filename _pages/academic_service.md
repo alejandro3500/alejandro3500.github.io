@@ -47,7 +47,7 @@ Conference Organization & support
 
 * Support staff for the 5th International Conference on Hybrid Human-Artificial Intelligence conference (HHAI2026) \[[Letter of attendance](/files/HHAI2026.pdf)\]
 
-* 1st Workshop "Artificial Intelligence for Digital Twins: Challenges and Best Practices (AI4DT 2026)". Venue: BNAIC/BeNeLearn 2026. ([Link](https://ai4dt-workshop.github.io/2026/))
+* 1st Workshop "Artificial Intelligence for Digital Twins: Challenges and Best Practices (AI4DT 2026)". Venue: BNAIC/BeNeLearn 2026. ([Link](https://ai4dt-workshop.github.io/2026/), [Summary](..\images\AI4DT_2026_summary.png))
 
 
 Research funding
